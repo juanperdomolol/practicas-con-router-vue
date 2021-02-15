@@ -17,3 +17,8 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+##proyect 
+
+https://focused-almeida-c31c8e.netlify.app/
